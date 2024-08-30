@@ -1,0 +1,19 @@
+﻿Subject Code,Age(yrs),Gender,Mass(kg),Height(m),Amputation side,Etiology,Age of Amputation (yrs),K-Level,Prescribed Prosthesis Knee,Prescribed Prosthesis Ankle,Socket Suspension,Training? (#),Hand-rails?
+TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,Suction,No,No
+TF02,79,Male,126.1,1.75,Right,Infection,1,K2,C-Leg Obk,Triton Obk,Lanyard,Yes (2),"Yes, All"
+TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,C-Leg Obk,Trition Low Profile Obk,Suction,No,No
+TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,C-Leg Obk,Kinterra FI,Lanyard,Yes (3),"Yes, All"
+TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,C-Leg Obk,Triton Obk,Pin Lock,No,No
+TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,Suction,No,No
+TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,C-Leg Obk,Trias Obk,Suction,No,No
+TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,C-Leg Obk,Trias Obk,Suction,No,"Yes, All"
+TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,C-Leg Obk,Trias Obk,Suction,No,No
+TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,C-Leg Obk,Trias Obk,Lanyard,Yes (1),No
+TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,Vacuum,No,"Yes, LS"
+TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,Lanyard,No,"Yes, All"
+TF15,23,Female,68,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,Suction,No,"Yes, LS"
+TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,C-Leg Obk,AllPro FI,Suction,No,No
+TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,Suction,No,No
+TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,Suction,No,Yes
+TF19,30,Female,59,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,Lanyard,No,No
+TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,C-Leg Obk,Action Obk,Suction,No,Yes
