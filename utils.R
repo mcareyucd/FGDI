@@ -1,0 +1,1 @@
+utils::globalVariables(c("Subject", "Time", "Angle", "Group", "%>%"))
